@@ -1,0 +1,9 @@
+# Credenciales
+token.txt
+.env
+
+# Datos descargados / resultados regenerables
+cache/
+.venv/
+__pycache__/
+*.py[cod]
